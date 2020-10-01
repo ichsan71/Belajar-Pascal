@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik2\ngulik21.dp
+Name=ngulik3
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\ngulik2\Ungulik21.pas
+UnitCount=2
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\ngulik2\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik2\Ungulik21.pas
+FileTime=1363244184
+[Unit2]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik2\ugamatif.pas
+FileTime=1363244456
