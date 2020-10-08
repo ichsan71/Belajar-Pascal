@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan3\hitungGaji\HitungGaji.dp
+Name=HitungGaji
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan3\hitungGaji\Ugaji.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan3\hitungGaji\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan3\hitungGaji\Ugaji.pas
+FileTime=1363583846

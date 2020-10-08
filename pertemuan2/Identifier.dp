@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan2\Identifier.dp
+Name=Identifier
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan2\Uidentifier.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan2\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan2\Uidentifier.pas
+FileTime=1363510992
