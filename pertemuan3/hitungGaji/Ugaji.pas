@@ -4,7 +4,7 @@ uses crt;
 var
    nama:string;
    nip,gaji,anak:integer;
-   pajak,tunjangan1,tunjangan2,gatot:real;
+   pajak,tunjangan1,tunjangan2,gtotal,gbersih:real;
 
 begin
      clrscr;
@@ -13,7 +13,7 @@ begin
      write('Masukan nip   anda   :  ');readln(nip);
      writeln('-------------------------------------------');
 
-     writeln('Halo, ',nama,'-',nip);
+     writeln('Halo',',',nama,'-',nip);
      writeln('-------------------------------------------');
 
      write('Masukan Gaji  anda         :  ');readln(gaji);
@@ -27,11 +27,14 @@ begin
      writeln('Tunjangan anak     : ',tunjangan2:0:2);
      writeln;
 
-     gatot:=gaji+tunjangan1+tunjangan2;
-     writeln('gaji kotor anda senilai   : ',gatot:0:2);
+     gtotal:=gaji+tunjangan1+tunjangan2;
+     writeln('gaji kotor anda senilai   : ',gtotal:0:2);
      writeln;
 
-     pajak:=gatot-gatot*0.1;
-     writeln('Gaji Bersih anda setelah dipotong 10% senilai : ',pajak:0:2);
+     pajak:=gtotal*0.1;
+     writeln('Anda dikenakan Pajak 10%  : ',pajak:0:2);
+
+     gbersih:=gtotal-pajak;
+     writeln('Gaji Bersih anda senilai  : ',gbersih:0:2);
      readln;
 end.

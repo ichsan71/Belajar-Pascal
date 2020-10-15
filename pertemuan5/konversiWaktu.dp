@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan5\konversiWaktu.dp
+Name=konversiWaktu
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan5\Ukonversiwaktu.pas
+UnitCount=2
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan5\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan5\Ukonversiwaktu.pas
+FileTime=1364028225
+[Unit2]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan5\Ujamkemenit.pas
+FileTime=1364028366

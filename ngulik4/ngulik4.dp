@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik4\ngulik4.dp
+Name=ngulik4
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\ngulik4\casestatment.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\ngulik4\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik4\casestatment.pas
+FileTime=1363916441
