@@ -26,9 +26,9 @@ begin
      konversiJamM:=selisihMK mod MENIT_KE_JAM;
 
      harga:=selisihMK / MENIT_KE_JAM * 5000;
-     pembulatanHarga:=round(harga/10000);
+     pembulatanHarga:=round(harga/1000);
 
      writeln('Total waktu : ',selisihMK,' menit',' Atau sama dengan ', konversiJamJ,':',konversiJamM,' Jam');
-     writeln('Total Harga : Rp.',pembulatanHarga:0:3);
+     writeln('Total Harga : Rp.',pembulatanHarga:0:0);
      readln;
 end.

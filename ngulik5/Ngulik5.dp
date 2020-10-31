@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik5\Ngulik5.dp
+Name=Ngulik6
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\ngulik5\kalkulator.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\ngulik5\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik5\kalkulator.pas
+FileTime=1364479555

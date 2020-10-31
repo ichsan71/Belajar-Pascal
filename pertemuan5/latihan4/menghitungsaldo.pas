@@ -2,8 +2,8 @@ program Menghitung_saldo;
 uses crt;
 
 var
-    S,sAwal,waktuT,bunga:integer;
-    sNN,Nbunga,sAkhir,sn:real;
+    sAwal,waktuT,bunga:integer;
+    S,sNN,Nbunga,sAkhir,sn:real;
 
 begin
    clrscr;
@@ -15,11 +15,11 @@ begin
    sAkhir:=sAwal*Nbunga*waktuT+sAwal;
    writeln('Saldo akhir anda pada bulan pertama  : ', sAkhir:0:0);
 
-
-   //S:=power(Nbunga,12);
    sn:=1+Nbunga;
-   sNN:=sAwal*sn*sn*sn*sn*sn*sn*sn*sn*sn*sn*sn*sn;
-   writeln('Saldo akhir anda pada bulan Terakhir : ', sNN:0:0);
+   S:=sAwal*power(sn,120*0.1);
+
+
+   writeln('Saldo akhir anda pada bulan Terakhir : ', S:0:0);
    readln;
 
 end.

@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan7\Ngobar\Ngobar.dp
+Name=Ngobar
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan7\Ngobar\ngobar1.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan7\Ngobar\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan7\Ngobar\ngobar1.pas
+FileTime=1364545808

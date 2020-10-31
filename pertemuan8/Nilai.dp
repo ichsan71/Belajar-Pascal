@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan8\Nilai.dp
+Name=Nilai
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan8\PerhitunganNilai.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan8\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan8\PerhitunganNilai.pas
+FileTime=1364898808

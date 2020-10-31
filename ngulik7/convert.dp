@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik7\convert.dp
+Name=convert
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\ngulik7\convertbit.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\ngulik7\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik7\convertbit.pas
+FileTime=1364701292

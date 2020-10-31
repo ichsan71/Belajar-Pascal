@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan8\Tiket2.dp
+Name=Tiket2
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan8\Tiketpt2\tiketpt2.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan8\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan8\Tiketpt2\tiketpt2.pas
+FileTime=1364899658
