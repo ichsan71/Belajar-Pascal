@@ -7,7 +7,7 @@ var
 begin
      x:=1;
 
-     while x <= 5 do
+     while x <= 10 do
      begin
            y := 0;
            while y < x do

@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik9\Tabungan\TabunganAkhirat.dp
+Name=TabunganAkhirat
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\ngulik9\Tabungan\RincianTabungan.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\ngulik9\Tabungan\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\ngulik9\Tabungan\RincianTabungan.pas
+FileTime=1365467975

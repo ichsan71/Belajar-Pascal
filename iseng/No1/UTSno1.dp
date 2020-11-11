@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\iseng\No1\UTSno1.dp
+Name=UTSno1
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\iseng\No1\mangga.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\iseng\No1\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\iseng\No1\mangga.pas
+FileTime=1365417201

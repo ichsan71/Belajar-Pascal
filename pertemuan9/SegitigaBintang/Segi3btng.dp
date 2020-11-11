@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan9\SegitigaBintang\Segi3btng.dp
+Name=Segi3btng
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan9\SegitigaBintang\Segitigabintang.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan9\SegitigaBintang\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan9\SegitigaBintang\Segitigabintang.pas
+FileTime=1365870125
