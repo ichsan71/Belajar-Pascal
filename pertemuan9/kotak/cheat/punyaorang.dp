@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan9\kotak\cheat\punyaorang.dp
+Name=punyaorang
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan9\kotak\cheat\curang.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan9\kotak\cheat\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan9\kotak\cheat\curang.pas
+FileTime=1366327110
