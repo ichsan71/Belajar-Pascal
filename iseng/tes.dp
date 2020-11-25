@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\iseng\tes.dp
+Name=tes
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\iseng\tes1.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\iseng\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\iseng\tes1.pas
+FileTime=1366718710

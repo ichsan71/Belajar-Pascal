@@ -12,7 +12,7 @@ begin
      write('Periode      : ');readln(p);
      writeln('-----------------------------------');
 
-     total:=0;
+     //total:=0;
      bunga:=bunga/100;
      for i:=1 to p do
      begin

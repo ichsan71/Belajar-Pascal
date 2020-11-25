@@ -1,45 +1,43 @@
-program Kotak;
+program MembuatKotak;
 uses crt;
-
+procedure kotak(x1,y1,x2,y2,latar:byte);
 var
-   x1,x2,y1,y2,i:integer;
+   i:byte;
+begin
+     textbackground(latar);
+     window(x1,y1,x2,y2);// seting windows aktif
+     clrscr;// clear screen sesuai ukuran windows
+     window(1,1,80,25);// kembalikan ke windows biasa
+     gotoxy(x1,y1);write(#218);
+     for i:=x1+1 to x2-1 do
+     begin
+          gotoxy(i,y1);write(#196);
+     end;
+     gotoxy(x2,y1);write(#191);
+     for i:=y1+1 to y2-1 do
+     begin
+          gotoxy(x2,i);write(#179);
+     end;
+     gotoxy(x2,y2);write(#217);
+     for i:=x2-1 downto x1+1  do
+     begin
+          gotoxy(i,y2);write(#196);
+     end;
+     gotoxy(x1,y2);write(#192);
+     for i:=y2-1 downto y1+1  do
+     begin
+          gotoxy(x1,i);write(#179);
+     end;
 
+end; // end of procedure
 
 begin
-     writeln('Pengisian Koordinat Kotak');
-     writeln('---------------------------');
-     write('Posisi Kiri  (X1) 1-80 : ');readln(x1);
-     write('Posisi Atas  (Y1) 1-25 : ');readln(y1);
-     write('Posisi Kanan (X2) 1-80 : ');readln(x2);
-     write('Posisi Bawah (Y2) 1-25 : ');readln(y2);
-     clrscr;
-
-
-     for i:=x1 to x2 do
-         begin
-              gotoxy(i,y1);
-              writeln('-');
-              gotoxy(i,y2);
-              writeln('-');
-              delay(10);
-         end;
-
-     for i:=y1 to y2 do
-         begin
-              gotoxy(x1,i);
-              writeln('|');
-              gotoxy(x2,i);
-              writeln('|');
-              delay(10);
-         end;
-     gotoXY(x1,y1);
-     write('+');
-     gotoXY(x2,y1);
-     write('+');
-     gotoXY(x1,y2);
-     write('+');
-     gotoXY(x2,y2);
-     write('+');
-
+     kotak(1,1,80,4,BLUE);
+     writeln('So much i miss u, I miss uuuu');
+     kotak(1,6,40,10,MAGENTA);
+     writeln('dude im here');
+     kotak(51,6,80,15,CYAN);
+     writeln('saya');
      readln;
+
 end.
