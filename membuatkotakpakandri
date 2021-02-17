@@ -1,13 +1,14 @@
 program MembuatKotak;
 uses crt;
-procedure kotak(x1,y1,x2,y2,latar:byte);
+procedure kotak(x1,y1,x2,y2,latar,tulisan:byte);
 var
-   i:byte;
+   i:integer;
 begin
      textbackground(latar);
      window(x1,y1,x2,y2);// seting windows aktif
      clrscr;// clear screen sesuai ukuran windows
      window(1,1,80,25);// kembalikan ke windows biasa
+     textcolor(tulisan);
      gotoxy(x1,y1);write(#218);
      for i:=x1+1 to x2-1 do
      begin
@@ -32,11 +33,11 @@ begin
 end; // end of procedure
 
 begin
-     kotak(1,1,80,4,BLUE);
-     writeln('So much i miss u, I miss uuuu');
-     kotak(1,6,40,10,MAGENTA);
+     kotak(1,1,80,4,BLUE,red);
+     writeln('wkowkowkowkowkowk');
+     kotak(1,6,40,10,MAGENTA,red);
      writeln('dude im here');
-     kotak(51,6,80,15,CYAN);
+     kotak(51,6,80,15,CYAN,red);
      writeln('saya');
      readln;
 

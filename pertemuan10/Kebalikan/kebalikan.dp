@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan10\Kebalikan\kebalikan.dp
+Name=kebalikan
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan10\Kebalikan\UProgramUtama.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan10\Kebalikan\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan10\Kebalikan\UProgramUtama.pas
+FileTime=1369077794

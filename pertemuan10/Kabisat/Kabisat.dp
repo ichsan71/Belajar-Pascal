@@ -1,0 +1,17 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan10\Kabisat\Kabisat.dp
+Name=Kabisat
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan10\Kabisat\UMainProgram.pas
+UnitCount=2
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan10\Kabisat\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan10\Kabisat\UMainProgram.pas
+FileTime=1369149802
+[Unit2]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan10\Kabisat\fungsi.pas
+FileTime=1369151313
+[Unit0]
+FileTime=1368763220

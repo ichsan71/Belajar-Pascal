@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan13\recordTanpaUnit\recordTanpaUnit.dp
+Name=recordTanpaUnit
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan13\recordTanpaUnit\mainProg.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan13\recordTanpaUnit\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan13\recordTanpaUnit\mainProg.pas
+FileTime=1378977511

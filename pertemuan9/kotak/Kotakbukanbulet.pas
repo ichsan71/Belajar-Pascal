@@ -32,12 +32,7 @@ begin
 end; // end of procedure
 
 begin
-     kotak(1,1,80,4,BLUE);
-     writeln('So much i miss u, I miss uuuu');
-     kotak(1,6,40,10,MAGENTA);
-     writeln('dude im here');
-     kotak(51,6,80,15,CYAN);
-     writeln('saya');
+
      readln;
 
 end.

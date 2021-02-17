@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan13\gameRecord\rpg.dp
+Name=rpg
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan13\gameRecord\MainProg.pas
+UnitCount=2
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan13\gameRecord\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan13\gameRecord\MainProg.pas
+FileTime=1379102445
+[Unit2]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan13\gameRecord\lib.pas
+FileTime=1379105633

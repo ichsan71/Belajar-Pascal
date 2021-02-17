@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan12\nyaorang\nyaorng.dp
+Name=nyaorng
+MainUnit=C:\Users\San\Documents\KUSMANG\pascal\pertemuan12\nyaorang\main.pas
+UnitCount=1
+ResFiles=C:\Users\San\Documents\KUSMANG\pascal\pertemuan12\nyaorang\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\San\Documents\KUSMANG\pascal\pertemuan12\nyaorang\main.pas
+FileTime=1378783083
